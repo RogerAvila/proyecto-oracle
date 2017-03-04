@@ -13,5 +13,12 @@
     </head>
     <body>
         <h1>Hello World!</h1>
-    </body>
+        
+        <form action="autenticar" method="post">
+ 
+           <input type="text" name="login" placeholder="login"/>
+           <input type="password" name="password" placeholder="password"/>
+           <input type="submit" value="ingresar a oracle" />
+             
+             </body>
 </html>
