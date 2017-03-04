@@ -5,4 +5,4 @@
 ### Que es SCRUM 
 Aqui vas a escribir que es scrum
 
-[Esta es una imagen](https://oracleteamusa-images.s3.amazonaws.com/original/m348_oracle.png)
+![Esta es una imagen](https://oracleteamusa-images.s3.amazonaws.com/original/m348_oracle.png)
