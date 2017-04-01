@@ -12,7 +12,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>hola.html</h1>
+        <h1>Bienvenido introduce tu login y password</h1>
         <form action="ingresar.aspx"> 
             <input type="submit" value ="ingresar a oracle"/>
     </body>
