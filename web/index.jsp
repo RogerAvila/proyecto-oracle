@@ -13,7 +13,11 @@
     </head>
     <body>
         <h1>Bienvenido introduce tu login y password</h1>
-        <form action="ingresar.aspx"> 
+        <form action="ingresar.aspx" method="post"> 
+            <input type="text" name="login" placeholder="login"/>
+            <input type="password" name="password" placeholder="password"/>
             <input type="submit" value ="ingresar a oracle"/>
+        </form>
     </body>
+  
 </html>
